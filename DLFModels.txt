@@ -1,1 +1,2 @@
-[MessiahOfDoom:messiah,HarbingerOfDoom:messiah]
+MessiahOfDoom:messiah
+HarbingerOfDoom:messiah
